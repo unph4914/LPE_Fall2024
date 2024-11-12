@@ -14,9 +14,8 @@
 | **10. Verify Target Energy Storage with Energy Harvesting**    | Battery charges to the target level for typical use case (to be confirmed by measurement/calculation).      |                          |                        |                     |                |                        |
 | **11. Verify Energy Storage Supports System Without External Charging** | Battery alone powers the system for 7 hours, maintaining all necessary functions (based on 700mAh estimate). |                          |                        |                     |                |                        |
 | **12. Verify Each IC (Digital, Analog, Power) is Functional**  | Each IC performs as expected, without fault or overheating.                                                 |                          |                        |                     |                |                        |
-| **13. Verify Bulk Capacitance Maintains Voltage**              | Bulk capacitor maintains voltage within design specifications during load fluctuations.                     |                          |                        |                     |                |                        |
-| **14. Verify Communication Drivers in Firmware (I2C, SPI, UART)** | All communication protocols transmit and receive data correctly with minimal error rate.                    |                          |                        |                     |                |                        |
-| **15. Verify Power Rails Meet Design Voltage Specification**   | Measured voltages of all power rails match design specifications (scope screenshots included in report).    |                          |                        |                     |                |                        |
+| **13. Verify Communication Drivers in Firmware (I2C, SPI, UART)** | All communication protocols transmit and receive data correctly with minimal error rate.                    |                          |                        |                     |                |                        |
+| **14. Verify Power Rails Meet Design Voltage Specification**   | Measured voltages of all power rails match design specifications (scope screenshots included in report).    |                          |                        |                     |                |                        |
 
 ---
 
