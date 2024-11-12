@@ -10,26 +10,27 @@ This project aims to design and develop a low-power gaming application using two
 **System Description**
 1. Stick Gecko (BLE Transmitter)
 Microcontroller: ARM Cortex-M4 core
-- Components:
-i. Joystick: Interfaced using an ADC to capture user input for controlling the game.
+Components:
+- Joystick: Interfaced using an ADC to capture user input for controlling the game.
 
-ii. Buttons: Connected via GPIO for additional control functions.
+- Buttons: Connected via GPIO for additional control functions.
 
-iii. Gyro Sensor: Interfaced via I2C to detect motion, enhancing game interactivity.
+- Gyro Sensor: Interfaced via I2C to detect motion, enhancing game interactivity.
 
-iv. Temperature Sensor: Monitors device temperature, ensuring it operates within safe thermal limits.
+- Temperature Sensor: Monitors device temperature, ensuring it operates within safe thermal limits.
 
-v. Power Supply: Battery powered with integrated energy harvesting, such as a solar panel, for extended operation.
+- Power Supply: Battery powered with integrated energy harvesting, such as a solar panel, for extended operation.
 
-vi. Communication: Sends sensor data and user inputs via BLE to the Screen Gecko.
+- Communication: Sends sensor data and user inputs via BLE to the Screen Gecko.
 
 
 2. Screen Gecko (BLE Receiver)
 Microcontroller: ARM Cortex-M4 core
-- Components:
-i. LCD/OLED Display: Connected via SPI to display the game interface.
+Components:
 
-ii. Power Supply: Battery powered
+- LCD/OLED Display: Connected via SPI to display the game interface.
 
-iii. BLE Communication: Receives data from the Stick Gecko and processes it to update the game display.
+- Power Supply: Battery powered
+
+- BLE Communication: Receives data from the Stick Gecko and processes it to update the game display.
 
