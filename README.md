@@ -15,14 +15,14 @@ This project aims to design and develop a low-power gaming application using two
 
 *Stick Gecko (BLE Transmitter)* uses ARM Cortex-M4 core
 
-Components:
+- Components:
 
 -- Joystick, Buttons, Gyro Sensor, Temperature Sensor, Li-Ion Battery, Solar Panel, & BLE Communication.
 
 
 *Screen Gecko (BLE Receiver)* uses ARM Cortex-M4 core
 
-Components:
+- Components:
 
-- OLED Display, Li-Ion Battery, Solar Panel, Ambient Light Sensor, Buttons, & BLE Communication.
+-- OLED Display, Li-Ion Battery, Solar Panel, Ambient Light Sensor, Buttons, & BLE Communication.
 
