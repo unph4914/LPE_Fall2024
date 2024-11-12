@@ -1,7 +1,11 @@
 # LPE_Fall2024
+
 Low Power Embedded Gaming Application using Blue Gecko
+
 ECEN 5833 Low Power Embedded Design Techniques
+
 Team Members: Jayash Raulkar, Unmesh Phaterpekar & Tirth Patel
+
 Started: 07.09.2024
 
 **Overview**:
