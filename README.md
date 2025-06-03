@@ -26,3 +26,7 @@ This project aims to design and develop a low-power gaming application using two
 
 - OLED Display, Li-Ion Battery, Solar Panel, Ambient Light Sensor, Buttons, & BLE Communication.
 
+## 🚀 Roadmap
+
+Check out our project roadmap [here](https://github.com/users/unph4914/projects/2/views/1)
+
