@@ -1,4 +1,4 @@
-# LPE_Fall2024
+# Pocket Ranger
 
 Low Power Embedded Gaming Application using Blue Gecko
 
